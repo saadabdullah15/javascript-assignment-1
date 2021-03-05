@@ -178,15 +178,38 @@ ul{
 .container3{
     background-color: #EBEAE9;
     margin-top:-3%;
-    padding-top: 2%;
-    padding-bottom: 2%;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
     padding-left: 5%;
     border-bottom: 1px solid gray;
 }
 .container3 .col-sm-2{
-    margin:20px;
+    margin-right:20px;
+    margin-top: -10px;
 }
 .container3 .col-sm-2 button{
     background-color: dodgerblue;
     color: white;
+    border: none;
+    font-weight: bolder;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.container3 p{
+    font-size:12px;
+}
+
+
+.container4{
+    background-color: #EBEAE9;
+    margin-top: 0px;
+    font-size: 13px;
+    margin-left: 5%;
+}
+.container4 td{
+    padding-right:3rem;
+}
+.container4 tr{
+    border-bottom: 5px solid #EBEAE9;
 }
